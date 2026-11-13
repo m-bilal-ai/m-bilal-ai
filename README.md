@@ -13,7 +13,7 @@ A rigorous, research-oriented implementation portfolio covering Harvard CS50's *
 | :--- | :--- | :--- | :--- | :---: |
 | **00. Search** | `Degrees` | Breadth-First Search with O(1) dual hash-set frontier tracking & early goal-test termination | **`17.09 ms`** query across **1.1M+** IMDb edges | **Completed** |
 | **00. Search** | `Tic-Tac-Toe` | Adversarial zero-sum Minimax with α-β game-tree pruning | **`95.8%` node reduction** (`549,946` → `22,847` states; `237.9 ms`) | **Completed** |
-| **01. Knowledge** | `Knights` & `Minesweeper` | Propositional modal-logic entailment & incremental CNF clause reduction | In Progress | Active |
+| **01. Knowledge** | `Knights` & `Minesweeper` | Propositional modal-logic entailment & incremental CNF inference | `Knights`: **`1.749 ms`** across 4 knowledge bases (`Minesweeper` Nov 16) | Active |
 | **02. Uncertainty** | `PageRank` & `Heredity` | Markov power-iteration convergence & Bayesian network joint inference | Scheduled (`Nov 16–19`) | Upcoming |
 | **03. Optimization** | `Crossword` | Backtracking CSP with AC-3 arc consistency, MRV & LCV heuristics | Scheduled (`Nov 22–24`) | Upcoming |
 | **04. Learning** | `Shopping` & `Nim` | k-NN classification (**F1 / Dice %**) & tabular Q-learning reinforcement agent | Scheduled (`Nov 27–30`) | Upcoming |
